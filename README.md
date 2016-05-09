@@ -8,3 +8,5 @@
 
 ##培养目标
 ![training_target.png](/images/training_target.png)
+
+## 课程特色
