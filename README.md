@@ -7,4 +7,4 @@
 小伙伴们，还在等什么？快点一起跟我们来做MP3音乐播放器吧  ^_^！
 
 ##培养目标
-![images/training_target.png](images/images/training_target.png)
+![training_target.png](/images/training_target.png)
