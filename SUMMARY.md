@@ -51,8 +51,8 @@
     * [匿名内部类](/content/chapter7/7.3.md)
     * [Activity实现OnClick](/content/chapter7/7.4.md)
     * [本章作业](/content/chapter7/7.5.md)
-* 也来谈谈多媒体
-    * 不同来源的媒体文件
+* [也来谈谈多媒体](/content/chapter8/index.md)
+    * [不同来源的媒体文件](/content/chapter8/8.1.md)
     * 媒体状态控制
     * 播放哪首歌呢
     * 播放的控制
