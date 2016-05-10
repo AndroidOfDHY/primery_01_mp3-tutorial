@@ -1,7 +1,7 @@
 {
     "title": "Android 开发入门",
     "author": "李晓蕾",
-    "generator": "site",  // 使用的编译模式
+    "generator": "website",  // 使用的编译模式
     "isbn": null,
     "links": {
         "sharing": {
