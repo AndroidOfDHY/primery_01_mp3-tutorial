@@ -73,8 +73,8 @@
     * [歌词最终显示](/content/chapter10/10.5.md)
     * [歌词显示bug修复](/content/chapter10/10.6.md)
     * [本章作业](/content/chapter10/10.7.md)
-* 网络无处不在
-    * Http基础
+* [网络无处不在](/content/chapter11/index.md)
+    * [Http基础](/content/chapter11/11.1.md)
     * Http请求封装
     * 歌曲列表访问更新
     * AsyncTask基础
