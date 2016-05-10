@@ -3,6 +3,14 @@
     "author": "李晓蕾",
     "generator": "website",  // 使用的编译模式
     "isbn": null,
-    
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        }
+    },
     
 }
