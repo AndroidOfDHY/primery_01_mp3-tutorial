@@ -65,14 +65,14 @@
     * [自动播放下一首](/content/chapter9/9.3.md)
     * [优化一下](/content/chapter9/9.4.md)
     * [本章作业](/content/chapter9/9.5.md)
-* [深入异步任务](/content/chapter10/index/md)
+* [深入异步任务](/content/chapter10/index.md)
     * [Handler基础](/content/chapter10/10.1.md)
-    * 歌词对象创建
-    * 自定义歌词显示视图
-    * 歌词处理对象
-    * 歌词最终显示
-    * 歌词显示bug修复
-    * 本章作业
+    * [歌词对象创建](/content/chapter10/10.2.md)
+    * [自定义歌词显示视图](/content/chapter10/10.3.md)
+    * [歌词处理对象](/content/chapter10/10.4.md)
+    * [歌词最终显示](/content/chapter10/10.5.md)
+    * [歌词显示bug修复](/content/chapter10/10.6.md)
+    * [本章作业](/content/chapter10/10.7.md)
 * 网络无处不在
     * Http基础
     * Http请求封装
