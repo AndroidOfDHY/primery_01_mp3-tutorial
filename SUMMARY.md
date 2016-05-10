@@ -65,8 +65,8 @@
     * [自动播放下一首](/content/chapter9/9.3.md)
     * [优化一下](/content/chapter9/9.4.md)
     * [本章作业](/content/chapter9/9.5.md)
-* 深入异步任务
-    * Handler基础
+* [深入异步任务](/content/chapter10/index/md)
+    * [Handler基础](/content/chapter10/10.1.md)
     * 歌词对象创建
     * 自定义歌词显示视图
     * 歌词处理对象
