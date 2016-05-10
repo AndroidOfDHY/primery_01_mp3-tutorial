@@ -33,4 +33,7 @@
     * [XML文件结构与实体类设计](/content/chapter5/5.3.md)
     * [数据读取逻辑设计](/content/chapter5/5.4.md)
     * [实用工具类实现](/content/chapter5/5.5.md)
-    * 
+    * [解析XML文件分析](/content/chapter5/5.6.md)
+    * [解析XML文件实现](/content/chapter5/5.7.md)
+    * [读取SD卡数据](/content/chapter5/5.8.md)
+    * [本章作业](/content/chapter5/5.9.md)
