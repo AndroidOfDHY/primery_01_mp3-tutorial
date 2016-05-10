@@ -27,3 +27,10 @@
     * [Activity之间如何交互](/content/chapter4/4.4.md)
     * [生命周期管理](/content/chapter4/4.5.md)
     * [本章作业](/content/chapter4/4.6.md)
+* [与SD卡的亲密接触](/content/chapter5/index.md)
+    * [常用的数据存储方式](/content/chapter5/5.1.md)
+    * [数据导入SD卡](/content/chapter5/5.2.md)
+    * [XML文件结构与实体类设计](/content/chapter5/5.3.md)
+    * [数据读取逻辑设计](/content/chapter5/5.4.md)
+    * [实用工具类实现](/content/chapter5/5.5.md)
+    * 
