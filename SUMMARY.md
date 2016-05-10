@@ -59,3 +59,7 @@
     * [谁唱的什么歌](/content/chapter8/8.5.md)
     * [多媒体大总结](/content/chapter8/8.6.md)
     * [本章作业](/content/chapter8/8.7.md)
+* 初识异步线程
+* 深入异步任务
+* 网络无处不在
+* 终极考核
