@@ -14,3 +14,4 @@
 
 ![course_characteristics.png](images/introduce/course_characteristics.png)
 
+
