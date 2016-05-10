@@ -20,3 +20,4 @@
         * [RelativeLayout](/content/chapter3/3.2.3.md)
         * [布局嵌套](/content/chapter3/3.2.4.md)
     * [本章作业](/content/chapter3/3.3.md)
+* [Activity的一生](/content/chapter4/index.md)
