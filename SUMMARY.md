@@ -12,3 +12,5 @@
         * [TextView](/content/chapter3/3.1.1.md)
         * [ImageView](content/chapter3/3.1.2.md)
         * [ListView](content/chapter3/3.1.3.md)
+        * [SeekBar](/content/chapter3/3.1.4.md)
+        * [自定义控件](/content/chapter3/3.1.5.md)
