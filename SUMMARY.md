@@ -7,4 +7,7 @@
     * [本章作业](/content/chapter1/1.3.md)
 * [一起来做 Mp3 播放器](/content/chapter2/index.md)
     * [一起来做 Mp3 播放器](/content/chapter2/2.1.md)
-
+* [说说UI那些事儿](/content/chapter3/index.md)
+    * [UI上的那些元素](/content/chapter3/3.1.md)
+        * [TextView](/content/chapter3/3.1.1.md)
+        * 
