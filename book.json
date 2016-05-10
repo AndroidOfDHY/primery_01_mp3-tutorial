@@ -13,5 +13,5 @@
         }
     },
     "output": null,  // 自定义指定编译输出的文件夹
-    
+    "language": "zh-hans"
 }
