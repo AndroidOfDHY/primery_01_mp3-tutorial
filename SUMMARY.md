@@ -53,9 +53,9 @@
     * [本章作业](/content/chapter7/7.5.md)
 * [也来谈谈多媒体](/content/chapter8/index.md)
     * [不同来源的媒体文件](/content/chapter8/8.1.md)
-    * 媒体状态控制
-    * 播放哪首歌呢
-    * 播放的控制
-    * 谁唱的什么歌
-    * 多媒体大总结
-    * 本章作业
+    * [媒体状态控制](/content/chapter8/8.2.md)
+    * [播放哪首歌呢](/content/chapter8/8.3.md)
+    * [播放的控制](/content/chapter8/8.4.md)
+    * [谁唱的什么歌](/content/chapter8/8.5.md)
+    * [多媒体大总结](/content/chapter8/8.6.md)
+    * [本章作业](/content/chapter8/8.7.md)
