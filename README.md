@@ -7,10 +7,10 @@
 小伙伴们，还在等什么？快点一起跟我们来做MP3音乐播放器吧  ^_^！
 
 ##培养目标
-![training_target.png](/images/training_target.png)
+![training_target.png](/images/introduce/training_target.png)
 
 ## 课程特色
 课程需要根据课程知识点需求设计一个具体的教学示例“音乐播放器”，将项目分为3个迭代版本，以项目开发准备、项目UI分析设计、项目实现及升级改造螺旋式推进知识点的学习。
 
-![course_characteristics.png](images/course_characteristics.png)
+![course_characteristics.png](images/introduce/course_characteristics.png)
 
