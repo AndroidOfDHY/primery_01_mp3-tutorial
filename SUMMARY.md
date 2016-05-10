@@ -82,5 +82,5 @@
     * [音乐下载方法封装](/content/chapter11/11.6.md)
     * [长按一下就下载](/content/chapter11/11.7.md)
     * [本章作业](/content/chapter11/11.8.md)
-* 终极考核
+* [终极考核](/content/chapter12/index.md)
     * 终极考核
