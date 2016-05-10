@@ -75,12 +75,12 @@
     * [本章作业](/content/chapter10/10.7.md)
 * [网络无处不在](/content/chapter11/index.md)
     * [Http基础](/content/chapter11/11.1.md)
-    * Http请求封装
-    * 歌曲列表访问更新
-    * AsyncTask基础
-    * 异步歌曲列表加载
-    * 音乐下载方法封装
-    * 长按一下就下载
-    * 本章作业
+    * [Http请求封装](/content/chapter11/11.2.md)
+    * [歌曲列表访问更新](/content/chapter11/11.3.md)
+    * [AsyncTask基础](/content/chapter11/11.4.md)
+    * [异步歌曲列表加载](/content/chapter11/11.4.md)
+    * [音乐下载方法封装](/content/chapter11/11.6.md)
+    * [长按一下就下载](/content/chapter11/11.7.md)
+    * [本章作业](/content/chapter11/11.8.md)
 * 终极考核
     * 终极考核
