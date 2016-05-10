@@ -59,12 +59,12 @@
     * [谁唱的什么歌](/content/chapter8/8.5.md)
     * [多媒体大总结](/content/chapter8/8.6.md)
     * [本章作业](/content/chapter8/8.7.md)
-* 初识异步线程
-    * 异步更新播放时间
-    * 异步更新进度条
-    * 自动播放下一首
-    * 优化一下
-    * 本章作业
+* [初识异步线程](/content/chapter9/index.md)
+    * [异步更新播放时间](/content/chapter9/9.1.md)
+    * [异步更新进度条](/content/chapter9/9.2.md)
+    * [自动播放下一首](/content/chapter9/9.3.md)
+    * [优化一下](/content/chapter9/9.4.md)
+    * [本章作业](/content/chapter9/9.5.md)
 * 深入异步任务
     * Handler基础
     * 歌词对象创建
